@@ -1,0 +1,27 @@
+{
+  "name": "testCode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ztaintian/testCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ztaintian/testCode/issues"
+  },
+  "scripts": {
+    "dev" : "node app",
+    "webpack" : "webpack"
+  },
+  "homepage": "https://github.com/ztaintian/testCode#readme",
+  "dependencies": {
+    "webpack": "^3.5.4"
+  }
+}
